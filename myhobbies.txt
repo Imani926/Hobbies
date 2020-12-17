@@ -1,5 +1,6 @@
-reading
-cardmaking
-beading
-making cookies
-painting
+reading: escape and learning
+cardmaking: fun
+beading: shiny
+making cookies: delicious
+painting: relaxing
+
